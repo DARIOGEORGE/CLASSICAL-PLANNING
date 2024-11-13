@@ -1,4 +1,4 @@
-# ExpNo:10 Implementation of Classical Planning Algorithm
+[# ExpNo:10 Implementation of Classical Planning Algorithm
 # Algorithm or Steps Involved:
 <ol>
   <li>Define the initial state</li>
@@ -46,3 +46,4 @@ print(plan)
 
 # Please Prepare Solution or Definition For the method find_plan(initial_state, goal_state, actions)
 <h3>You Can use any of the searching Strategies for planning and executing a sequence of actions.<br> You can also look in to the Code given in the Repository.</h3>
+](https://github.com/DARIOGEORGE/wumpus__world.git)
